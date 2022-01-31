@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Pratik Ahire
 
-# In[1]: # Pratik Ahire
+# In[1]: 
 
 
 #Q1
